@@ -1,2 +1,3 @@
 # hello-world
-just another repositery
+
+my nmae is mohamed i am a student at fuclty of computers and information at minia universtiy
